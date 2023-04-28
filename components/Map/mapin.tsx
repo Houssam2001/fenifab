@@ -6,7 +6,7 @@ export default function Mapin() {
   const [map, setMap] = React.useState(null)
   const { isLoaded } = useJsApiLoader({
     id: 'google-map-script',
-    googleMapsApiKey: process.env.mapGoogle,
+    googleMapsApiKey: "AIzaSyCG0300rijWIBH2J1Wx0c_6M1pOzj0lxVM",
     // "AIzaSyCG0300rijWIBH2J1Wx0c_6M1pOzj0lxVM"
   })
   const containerStyle = {

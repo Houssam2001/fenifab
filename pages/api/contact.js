@@ -17,8 +17,8 @@ export default async function ContactAPI(req, res) {
       port: 465,
       secure: true,
       auth: {
-        user: process.env.user,
-        pass: process.env.pass
+        user: "houssam2001mchmch@gmail.com",
+        pass: "uxsvqvrdypfbroad"
       },
       tls: {
         rejectUnauthorized: false
@@ -26,7 +26,7 @@ export default async function ContactAPI(req, res) {
     });
     try {
       await transporter.sendMail({
-        from: process.env.user, 
+        from: "houssam2001mchmch@gmail.com", 
         to: 'houssam2001mxmx@gmail.com', 
         subject: `${subject}`,
         html: `
