@@ -7,8 +7,8 @@ export default function NewsLatterBoxForm(){
           email: String(event.target.email.value),
         }
         console.log(data);
-        const res = await fetch('/api/news', {
-          method: 'POST',
+        const res = await fetch(`/api/news`, {
+          method: `POST`,
           headers: {
             'Content-Type': 'application/json',
           },
@@ -16,12 +16,12 @@ export default function NewsLatterBoxForm(){
         })
     
         if (!res.ok) {
-          throw new Error('Form submission failed')
+          throw new Error(`Form submission failed`)
         }
     
     
         // Logs the response data to the console
-        console.log('Form submission response:', res.body)
+        console.log(`Form submission response:`, res.body)
     
       }
     return(
@@ -46,7 +46,7 @@ export default function NewsLatterBoxForm(){
           className="duration-80 mb-4 w-full cursor-pointer rounded-md border border-transparent bg-primary py-3 px-6 text-center text-base font-medium text-white outline-none transition ease-in-out hover:bg-opacity-80 hover:shadow-signUp focus-visible:shadow-none"
         />
         <p className="text-center text-base font-medium leading-relaxed text-body-color">
-        Pas de spam garanti, alors s'il vous plaît n'envoyez pas de spam.
+        Pas de spam garanti, alors s`il vous plaît n'envoyez pas de spam.
         </p>
       </form>
     );

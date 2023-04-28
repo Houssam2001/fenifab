@@ -2,9 +2,6 @@ import Breadcrumb from "@/components/Common/Breadcrumb";
 
 const privacy = () => {
   return (
-
-
-
     <>
       <Breadcrumb
         pageName="La policie"
@@ -12,9 +9,9 @@ const privacy = () => {
       />
       <section className="overflow-hidden py-16 md:py-20 lg:py-28">
         <div className="container">
-        <h2 >Privacy Policy of <span className="website_url">fenifab.com</span></h2>
+        <h2 >Privacy Policy of <span className="fenifab">fenifab.com</span></h2>
 
-        <p>At <span className="website_name">fenifab</span>, we collect and manage user data according to the following Privacy Policy.</p>
+        <p>At <span className="fenifab">fenifab</span>, we collect and manage user data according to the following Privacy Policy.</p>
 
         <h3>Data Collected</h3>
 
@@ -26,7 +23,7 @@ const privacy = () => {
 
         <h3>Use of the Data</h3>
 
-        <p>We only use your personal information to provide you the <span className="website_name">fenifab</span> services or to communicate with you about the Website or the services.</p>
+        <p>We only use your personal information to provide you the <span className="fenifab">fenifab</span> services or to communicate with you about the Website or the services.</p>
 
         <p>We employ industry standard techniques to protect against unauthorized access of data about you that we store, including personal information.</p>
 
@@ -34,17 +31,17 @@ const privacy = () => {
 
         <ul>
           <li>Doing so is appropriate to carry out your own request</li>
-          <li>We believe it's needed to enforce our legal agreements or that is legally required</li>
-          <li>We believe it's needed to detect, prevent or address fraud, security or technical issues</li>
+          <li>We believe it`s needed to enforce our legal agreements or that is legally required</li>
+          <li>We believe it`s needed to detect, prevent or address fraud, security or technical issues</li>
         </ul>
 
         <h3>Sharing of Data</h3>
 
-        <p>We don't share your personal information with third parties. Aggregated, anonymized data is periodically transmitted to external services to help us improve the Website and service.</p>
+        <p>We don`t share your personal information with third parties. Aggregated, anonymized data is periodically transmitted to external services to help us improve the Website and service.</p>
 
         <p>We may allow third parties to provide analytics services. These third parties may use cookies, web beacons and other technologies to collect information about your use of the services and other websites, including your IP address, web browser, pages viewed, time spent on pages, links clicked and conversion information.</p>
 
-        <p>We also use social buttons provided by services like Twitter, Google+, LinkedIn and Facebook. Your use of these third party services is entirely optional. We are not responsible for the privacy policies and/or practices of these third party services, and you are responsible for reading and understanding those third party services' privacy policies.</p>
+        <p>We also use social buttons provided by services like Twitter, Google+, LinkedIn and Facebook. Your use of these third party services is entirely optional. We are not responsible for the privacy policies and/or practices of these third party services, and you are responsible for reading and understanding those third party services` privacy policies.</p>
 
         <h3>Cookies</h3>
 

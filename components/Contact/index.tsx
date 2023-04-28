@@ -21,7 +21,7 @@ function Contact() {
                 Nous contacter
               </h2>
               <p className="mb-12 text-base font-medium text-body-color">
-                Notre équipe d'assistance vous répondra dès que possible par e-mail.
+                Notre équipe d`assistance vous répondra dès que possible par e-mail.
               </p>
              <ContactForm/>
             </div>
