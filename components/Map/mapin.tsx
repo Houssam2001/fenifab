@@ -21,14 +21,14 @@ export default function Mapin() {
   };
 
 
-  const onLoad = React.useCallback(function callback(map) {
+  const onLoad = React.useCallback(function callback(map:any) {
     const bounds = new window.google.maps.LatLngBounds(center);
     map.fitBounds(bounds);
 
     setMap(map)
   }, [])
 
-  const onUnmount = React.useCallback(function callback(map) {
+  const onUnmount = React.useCallback(function callback(map:any) {
     setMap(null)
   }, []);
   return isLoaded ? (
@@ -36,7 +36,6 @@ export default function Mapin() {
       mapContainerStyle={containerStyle}
       center={center}
       zoom={10}
-      margin={[50, 50, 50, 50]}
       onLoad={onLoad}
       onUnmount={onUnmount}
       
