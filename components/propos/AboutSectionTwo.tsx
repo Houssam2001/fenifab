@@ -34,7 +34,7 @@ const AboutSectionTwo = () => {
                 </h3>
                 <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
                 En cas de fuite, de bris ou de tout autre problème avec votre tuyauterie, 
-                notre équipe de techniciens de terrain est disponible pour les réparations et la maintenance afin de minimiser les temps d'arrêt et garantir une performance optimale.
+                notre équipe de techniciens de terrain est disponible pour les réparations et la maintenance afin de minimiser les temps d&apos;arrêt et garantir une performance optimale.
                 </p>
               </div>
               <div className="mb-1">
@@ -42,8 +42,8 @@ const AboutSectionTwo = () => {
                 Techniciens expérimentés pour une installation fiable et professionnelle
                 </h3>
                 <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
-                Nos techniciens de terrain peuvent offrir des conseils d'experts pour vous aider à choisir le bon type de tuyauterie pour votre application,
-                 ainsi que des solutions de conception et d'installation personnalisées pour répondre à vos besoins spécifiques.
+                Nos techniciens de terrain peuvent offrir des conseils d&apos;experts pour vous aider à choisir le bon type de tuyauterie pour votre application,
+                 ainsi que des solutions de conception et d&apos;installation personnalisées pour répondre à vos besoins spécifiques.
                 </p>
               </div>
             </div>
