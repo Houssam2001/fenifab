@@ -16,7 +16,7 @@ Fenifab is a project aimed at delivering high-quality industrial piping and safe
 
 <img src="/public/Screenshots 1.png"/>
 <caption>A part of Home Page</caption>
-<img src="/public/Screenshot 2.png"/>
+<img src="/public/screenshot 2.png"/>
 <caption>A part of Projects Page</caption>
 
 <h4>Technologies Used</h4>
