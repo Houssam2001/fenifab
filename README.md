@@ -17,7 +17,7 @@ To install Fenifab, follow these steps:
 
 
 Clone the repository: 
-git clone https://github.com/your-username/fenifab.git
+git clone https://github.com/Houssam2001/fenifab.git
 
 Navigate to the project directory: 
 cd fenifab
