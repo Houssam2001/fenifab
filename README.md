@@ -1,4 +1,4 @@
-**Fenifab**
+<Strong>Fenifab<Strong>
 
 Fenifab is a project aimed at delivering high-quality industrial piping and safety solutions to our clients. With certified welding expertise and round-the-clock technical support, we ensure the smooth operation of their facilities.
 
@@ -13,6 +13,10 @@ Certified welding expertise
 24/7 technical assistance
 
 **Installation**
+
+
+**Installation**
+
 To install Fenifab, follow these steps:
 
 
@@ -57,7 +61,9 @@ git push origin feature/my-feature
 Open a pull request.
 
 **Support**
+
 If you encounter any problems or have any questions, please don't hesitate to contact our support team at houssam2001mchmch@gmail.com. We are available 24/7 to assist you.
 
 **License**
+
 Fenifab is released under the MIT License.
