@@ -1,21 +1,33 @@
-<h3><Strong>Fenifab</Strong></h3>
+<h3><Strong>
+<a href="https://fenifab.vercel.app/" target="_blank">
+Fenifab
+</a>
+</Strong></h3> 
 
 Fenifab is a project aimed at delivering high-quality industrial piping and safety solutions to our clients. With certified welding expertise and round-the-clock technical support, we ensure the smooth operation of their facilities.
 
-**Features**
+<h4>Features</h4>
 
-High-quality industrial piping solutions
+>User-Friendly Interface: The website boasts an intuitive and easy-to-navigate interface, ensuring a seamless user experience. 
+>Accuracy: Minimize errors through seamless integration with project management software.
+>Efficiency: the website provide simpliest of contacting with the owner
 
-Reliable and secure safety measures
+<h4>Some Images from Projects</h4>
 
-Certified welding expertise
-
-24/7 technical assistance
-
-**ScreenShots**
 <img src="/public/Screenshots 1.png"/>
+<caption>A part of Home Page</caption>
+<img src="/public/Screenshot 2.png"/>
+<caption>A part of Projects Page</caption>
 
-**Installation**
+<h4>Technologies Used</h4>
+
+>Frontend: Next js, React js, Tailwind
+
+>Backend: Supabase, Python, node js,
+
+>Database: PostgreSQL
+
+<h4>Installation</h4>
 
 To install Fenifab, follow these steps:
 
